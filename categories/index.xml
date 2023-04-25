@@ -1,22 +1,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - Category - nullchar \\x00</title>
-        <link>http://example.org/categories/</link>
+        <link>https://www.null-char.com/categories/</link>
         <description>Categories - Category - nullchar \\x00</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 08 Dec 2022 19:15:03 &#43;1000</lastBuildDate><atom:link href="http://example.org/categories/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 08 Dec 2022 19:15:03 &#43;1000</lastBuildDate><atom:link href="https://www.null-char.com/categories/" rel="self" type="application/rss+xml" /><item>
     <title>blog</title>
-    <link>http://example.org/categories/blog/</link>
+    <link>https://www.null-char.com/categories/blog/</link>
     <pubDate>Thu, 08 Dec 2022 19:15:03 &#43;1000</pubDate>
     <author>Author</author>
-    <guid>http://example.org/categories/blog/</guid>
+    <guid>https://www.null-char.com/categories/blog/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>youtube</title>
-    <link>http://example.org/categories/youtube/</link>
+    <link>https://www.null-char.com/categories/youtube/</link>
     <pubDate>Thu, 08 Dec 2022 19:15:03 &#43;1000</pubDate>
     <author>Author</author>
-    <guid>http://example.org/categories/youtube/</guid>
+    <guid>https://www.null-char.com/categories/youtube/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
